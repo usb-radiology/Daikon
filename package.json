@@ -1,6 +1,6 @@
 {
   "name": "daikon-fix-parser",
-  "version": "1.2.43",
+  "version": "1.2.44",
   "description": "A JavaScript DICOM reader.",
   "main": "src/main.js",
   "directories": {
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/usb-radiology/Daikon.git"
+    "url": "https://githcd .ub.com/usb-radiology/Daikon.git"
   },
   "keywords": [
     "JavaScript",
